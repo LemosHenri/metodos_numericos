@@ -1,10 +1,10 @@
 # Métodos Numéricos.
 
 ## Bibliografia:
-- N. Franco - Cálculo Numérico.
+- Franco, N - Cálculo Numérico.
 - Faddeev, D. K - Computational Methods of Linear Algebra
-- B. P. Demidovich - Computational Mathematics.
-- G. H. Golub - Matrix Computations.
+- Demidovich, B. P - Computational Mathematics.
+- Golub, G. H - Matrix Computations.
 
 
 ## Sistemas Lineares.
